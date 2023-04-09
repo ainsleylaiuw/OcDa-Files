@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 data/Axial_Base/Audio/
+data/Central_Caldera/Audio/
 lf_specs.zarr
 *.wav
