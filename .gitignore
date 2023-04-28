@@ -133,3 +133,4 @@ data/Central_Caldera/Audio/
 lf_specs.zarr
 *.wav
 *.pkl
+*.mseed
