@@ -134,3 +134,4 @@ lf_specs.zarr
 *.wav
 *.pkl
 *.mseed
+PSD_pickles/
